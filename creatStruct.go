@@ -8,7 +8,11 @@ import (
 
 	"github.com/tealeg/xlsx"
 )
-
+/**
+BigManing
+lingshui2008@qq.com
+根据excle表格 生成结构体
+*/
 func main() {
 	creatStruct()
 
